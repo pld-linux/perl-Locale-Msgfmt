@@ -4,7 +4,6 @@
 #
 %define		pdir	Locale
 %define		pnam	Msgfmt
-%include	/usr/lib/rpm/macros.perl
 Summary:	Locale::Msgfmt - Compile .po files to .mo files
 Summary(pl.UTF-8):	Locale::Msgfmt - kompilacja plików .po do .mo
 Name:		perl-Locale-Msgfmt
